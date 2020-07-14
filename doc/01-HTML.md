@@ -1,6 +1,6 @@
 # HTML
 
-There's a file in this project called [`index.html`](./src/index.html).  HTML stands for HyperText Markup Language, and it's a language for representing websites.  Our document has a head, which is generally for stuff that isn't visual, and a body, for the stuff that is.
+There's a file in this project called [`index.html`](../index.html).  HTML stands for HyperText Markup Language, and it's a language for representing websites.  Our document has a head, which is generally for stuff that isn't visual, and a body, for the stuff that is.
 
 When they were making the internet, the eggheads over at Stanford thought that it would be the biggest academic paper-sharing network.  It's much more than that now, but HTML makes a lot of sense if you view it as a bunch of stuff bolted onto a tool for sharing academic papers.  It was created by [this dude Tim in 1990](https://en.wikipedia.org/wiki/HTML#Development).  You might think, why not use servers to send Word documents or something?  But one of the goals was to have a format for laying out documents that didn't require people to buy software from a specific vendor.
 
